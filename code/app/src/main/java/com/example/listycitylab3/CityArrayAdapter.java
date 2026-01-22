@@ -20,7 +20,7 @@ public class CityArrayAdapter extends ArrayAdapter<City> {
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup
             parent) {
-        View view;
+        View view = convertView;
         if (convertView == null) {
             view = LayoutInflater.from(getContext()).inflate(R.layout.content,
                     parent, false);
