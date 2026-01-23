@@ -2,7 +2,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Used Gemini to deal with gradle issues and synatax messages
 
 ## Verbal Collaboration
 
